@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/PositionReceiver.dir/main_PositionReceiver.cpp.o CMakeFiles/PositionReceiver.dir/message.pb.cc.o -o PositionReceiver  -lprotobuf -lzmq 

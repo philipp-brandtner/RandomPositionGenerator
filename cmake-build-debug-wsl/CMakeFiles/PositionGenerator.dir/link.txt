@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/PositionGenerator.dir/main_PositionGenerator.cpp.o CMakeFiles/PositionGenerator.dir/PositionGenerator.cpp.o CMakeFiles/PositionGenerator.dir/message.pb.cc.o -o PositionGenerator  -lprotobuf -lzmq 
